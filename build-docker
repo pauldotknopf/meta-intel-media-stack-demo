@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pushd docker
+docker build -t docker-build-meta-intel-media-stack .
+popd

@@ -10,3 +10,6 @@
 [submodule "meta-magewell"]
 	path = meta-magewell
 	url = https://github.com/pauldotknopf/meta-magewell.git
+[submodule "meta-gstreamer"]
+	path = meta-gstreamer
+	url = https://github.com/dv1/meta-gstreamer1.0.git
